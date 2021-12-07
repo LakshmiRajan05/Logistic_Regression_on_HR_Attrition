@@ -10,4 +10,4 @@ The repository contains a HR-Employee-attrition data set. The following processe
   7. Calculate variance inflation factor (VIF), remove features with VIF>10
   8. split data into train and test data sets
   9. Import regression model, train it using training data
-  10. 10.Predict the test data using trained model, find confusion matrix and calculate accuracy  
+  10. Predict the test data using trained model, find confusion matrix and calculate accuracy  
