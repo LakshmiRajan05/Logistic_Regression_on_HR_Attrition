@@ -1,6 +1,6 @@
 # Logistic_Regression_on_HR_Attrition_data
-Implementation of logistic regression model on HR-Attrition data set for prediction of attrition of employees.
-The repository contains a HR-Employee-attrition data set. The following processes are performed on the data.
+Implementation of logistic regression model on HR-Attrition data set for prediction of attrition of employees
+The repository contains a HR-Employee-attrition data set. The following processes are performed on the data
   1. Study the nature of data, remove unwanted and irrelevant features
   2. Analyse relationship between features, ignore independent features that show high correlation with each other
   3. Check for missing values/unwanted symbols and spaces in data, if present do correction
@@ -10,4 +10,4 @@ The repository contains a HR-Employee-attrition data set. The following processe
   7. Calculate variance inflation factor (VIF), remove features with VIF>10
   8. split data into train and test data sets
   9. Import regression model, train it using training data
-  10.Predict the test data using trained model, find confusion matrix and calculate accuracy   
+  10. 10.Predict the test data using trained model, find confusion matrix and calculate accuracy  
